@@ -14,7 +14,7 @@ The ready-to-eat cereal market is known for its high concentration, significant 
 - **Objective**: To estimate price elasticities and compare elasticities across different product pairs and market segments.
 
 ## References
-Berry, Steven, James Levinsohn, and Ariel Pakes (1995). Automobile prices in market equilibrium. Econometrica, 63 (4), 841-890.\\
-Conlon, Christopher, and Jeff Gortmaker (2020). Best practices for differentiated products demand estimation with PyBLP. RAND Journal of Economics, 51 (4), 1108-1161.\\
-Nevo, Aviv (2000). Mergers with differentiated products: The case of the ready-to-eat cereal industry. RAND Journal of Economics, 31 (3), 395-421.\\
+Berry, Steven, James Levinsohn, and Ariel Pakes (1995). Automobile prices in market equilibrium. Econometrica, 63 (4), 841-890.\
+Conlon, Christopher, and Jeff Gortmaker (2020). Best practices for differentiated products demand estimation with PyBLP. RAND Journal of Economics, 51 (4), 1108-1161.\
+Nevo, Aviv (2000). Mergers with differentiated products: The case of the ready-to-eat cereal industry. RAND Journal of Economics, 31 (3), 395-421.\
 Nevo, A. (2001). Measuring market power in the ready‐to‐eat cereal industry. Econometrica, 69(2), 307-342.
